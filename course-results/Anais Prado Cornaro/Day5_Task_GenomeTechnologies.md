@@ -5,7 +5,7 @@ WES = Whole Exome Sequencing
 WGS = Whole genome sequecing
 
 The __Exome__ refers to the entirety of all exonic regions within the genome. According to Wikipedia, the Exome consists of about __30 Mb__, which corresponds to 1.1% of the entire genome.
-The __Genome__ refers to all of the genetic information within a cell. Here I will use the __```$\displaystyle\30 * 10^9$``` bp as the genome length.
+The __Genome__ refers to all of the genetic information within a cell. Here I will use the ```$30 * 10^9$``` bp as the genome length.
 
 ## Storage required for different file formats
 ### SAM (Sequence Alignment Map)

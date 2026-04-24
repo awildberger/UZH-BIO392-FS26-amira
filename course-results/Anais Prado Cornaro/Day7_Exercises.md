@@ -24,7 +24,7 @@
     - between position 1 and 636 there are many PTMs
     - They include: Methylations (by CARM1), Acetylations, Phosphorylations (by MAPKAPK2)
     - Some common modified aminoacids include: Phosphothreonine, Phosphoserine, Omega-N-methylarginine, Ubiquitinated lysine, Acetyllysine
-- __Are there isoforms?__
+- __Isoforms:__
     - 2 isoforms produced by Alternative splicing.
         - P11940-1 (canonical isoform)
         - P11940-2
@@ -45,6 +45,3 @@
     - PABPC5
     - PUF60
     - .... (many more)
-
-
-# Exercise 
